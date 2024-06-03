@@ -1,2 +1,2 @@
 # ttgamenhom
-Game thực tập
+Sản phẩm game thực tập sử dụng Unity
