@@ -1,2 +1,2 @@
-# ttgamenhom1
+# ttgamenhom
 Game thực tập
